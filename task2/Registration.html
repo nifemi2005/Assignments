@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="Registration.css" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <section>
+        <div class="upper">
+            <h1>Register with Us</h1>
+        </div>
+        <form action="/login.html">
+            <div class="fray">
+                <div class="div-1">
+                    <div class="form-group">
+                        <input type="text" name="First Name" id="first" class="user-in" required placeholder="First Name*">
+                    </div>
+                </div>
+                <div class="div-1">
+                    <div class="form-group">
+                        <input type="text" name="Last Name" id="last" class="user-in" required placeholder="Last Name*">
+                    </div>
+                </div>
+            </div>
+            <div class="div-1">
+                <div class="form-group">
+                    <input type="tel" name="Phone Number" id="phone" class="user-in" required placeholder="Phone Number*">
+                </div>
+            </div>
+            <div class="div-1"> 
+                <div class="form-group">
+                    <input type="email" name="Email" id="email" class="user-in" required placeholder="Enter Your Email..">
+                </div>
+            </div>
+            <div class="div-1">
+                <div class="form-group">
+                    <input type="password" name="Password" id="password" class="user-in" required placeholder="Password*">
+                </div>
+            </div>
+            <div class="div-1">
+                <div class="form-group">
+                    <input type="password" name="C-Password" id="password" class="user-in" required placeholder="Confirm Password*">
+                </div>
+            </div>
+          <div class="form-group other">
+              <h4>Other details</h4>
+          </div>
+            <div class="div-1">
+                <div class="form-group">
+                    <select id="gender" name="gender" class="user-in" style="color:#8a8780;" required>
+                        <option value="" disabled selected hidden>Gender</option>
+                        <option value="male">Male</option>
+                        <option value="female">Female</option>
+                    </select>
+                </div>
+            </div>
+            <div class="div-1"> 
+                <div class="form-group">
+                    <!-- <input type="date" class="user-in" name="Date" > -->
+                    <input type="text" placeholder="Date Of Birth - MM/DD/YYYY" class="user-in" onfocus="(this.type='date')" required>
+                </div>
+            </div>
+            <div class="div-1">
+                <div class="form-group">
+<!--                     <label for="F-C">Favourite Colour <span>*</span></label> -->
+<!--                     <input type="color" class="user-in" required> -->
+                  <input type="text" placeholder="Favourite color" class="user-in" onfocus="(this.type='color')" required>
+                </div>
+            </div>
+          <div class="center">
+            <a href="login.html">
+              <input type="submit" class="submit" value="Register">
+            </a>
+        </div>
+        </form>
+        
+        <div class="AHAA">
+            <p>Already have an account? <a href="login.html">Login</a></p>
+        </div>
+    </section>
+  <script src="script.js"></script>
+
+ <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
+</body>
+
+</html>
