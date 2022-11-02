@@ -1,7 +1,7 @@
 
 # Week 4 task 
 
-This is a Flexbox task and a Grid layout task
+This is a Flexbox task and a Grid layout task given in the week 4 of Zuri Training.
 ## FAQ
 
 - What are the requirements for the  Flexbox project
