@@ -1,12 +1,12 @@
 
-# Week 3 task
+# Week 4 task 1
 
-This is a portfolio website and Registration page with a login and successful login page
+This is a Flexbox task
 ## FAQ
 
-- What are the requirements for the  portfolio project
+- What are the requirements for the  Flexbox project
 
-There must be a about me section, project section, contact me section.
+The color codes must be used accordingly and it must be mobile responsive.
 
 
 ## Acknowledgements
