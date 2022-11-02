@@ -1,7 +1,7 @@
 
-# Week 3 task
+# Week 3 task 1
 
-This is a portfolio website and Registration page with a login and successful login page
+This is the portfolio website task given in week 3 of Zuri Training
 ## FAQ
 
 - What are the requirements for the  portfolio project
