@@ -22,7 +22,7 @@ The color codes must be used accordingly and it must be mobile responsive.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+HTML, CSS...
 
 
 ## 🔗 Links
